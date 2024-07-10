@@ -13,6 +13,6 @@ today_date = datetime.today()
 
 final_result = deadline_date - today_date
 
-print(f"You have {final_result.days} left to fulfill your goal, Hurry up!!")
+print(f"You have {final_result.days} days left to fulfill your goal, Hurry up!!")
 
-print("Thanks for using our app!")
+print("Thanks for using our app! Hope you have enjoied it :")
